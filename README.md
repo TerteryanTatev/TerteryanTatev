@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Tatev 
 
-<!--
-**TerteryanTatev/TerteryanTatev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Developer | Information Systems Student
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent software and solving real-world problems with Artificial Intelligence, Machine Learning, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm expanding my knowledge in Machine Learning while developing practical applications that combine AI, backend development, and modern web technologies.
+
+---
+
+##  About Me
+
+-  Information Systems Student
+-  Interested in Artificial Intelligence & Machine Learning
+-  Python Developer
+-  Backend Developer using Flask
+-  Frontend Developer HTML CSS JavaScript
+-  Learning Data Science and Deep Learning
+-  Building real-world software projects
+-  Always learning new technologies and improving my engineering skills
+
+---
+
+##  Tech Stack
+
+### Programming Languages
+
+- Python
+- JavaScript
+- SQL
+- C++
+
+### Machine Learning & Data
+
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+
+### Frontend Development
+
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Google colab
+
+
+
+
+> *"The best way to learn is by building real projects."* 🚀
