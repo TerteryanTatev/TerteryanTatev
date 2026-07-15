@@ -19,38 +19,7 @@ Currently, I'm expanding my knowledge in Machine Learning while developing pract
 -  Building real-world software projects
 -  Always learning new technologies and improving my engineering skills
 
----
 
-##  Tech Stack
-
-### Programming Languages
-
-- Python
-- JavaScript
-- SQL
-- C++
-
-### Machine Learning & Data
-
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- NumPy
-- Pandas
-- Matplotlib
-
-### Frontend Development
-
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Google colab
 
 
 
